@@ -14,7 +14,7 @@ First, ensure you have [uv](https://docs.astral.sh/uv/) installed. Then, initial
 
 ```bash
 # Create the virtual environment and lockfile
-uv init
+uv init -p 3.13 # <-- choose any version you like
 
 ```
 
