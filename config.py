@@ -1,3 +1,6 @@
+#config.py
+#  © 2026 Ricky Macharm, MScFE | https://www.SisengAI.com
+
 from pydantic_settings import BaseSettings, SettingsConfigDict
 
 class Settings(BaseSettings):
